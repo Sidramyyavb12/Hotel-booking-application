@@ -47,8 +47,8 @@ A full-stack hotel booking web application built with the **MERN stack** (MongoD
 
 ### 🔹 Clone the Repo
 
-git clone https://github.com/Sidramyyavb12/Hotel-booking-application.git
-cd Hotel-booking-application
+**git clone https://github.com/Sidramyyavb12/Hotel-booking-application.git**
+**cd Hotel-booking-application**
 
 🔹 2. Install Dependencies
 Backend

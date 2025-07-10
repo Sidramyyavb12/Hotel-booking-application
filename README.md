@@ -116,6 +116,23 @@ Hotel-booking-application/
 ```
 
 ---
+## Screenshots
+![Screenshot 2025-05-14 094409](https://github.com/user-attachments/assets/b1e672e0-b161-4775-b1b4-1b3e2d131ec5)
+![Screenshot 2025-05-14 094442](https://github.com/user-attachments/assets/40a755a1-41da-4ce2-a95f-96fe18115fd5)
+![Screenshot 2025-05-14 094500](https://github.com/user-attachments/assets/532856e0-de08-4b74-bc60-de5868071a0c)
+![Screenshot 2025-05-14 094526](https://github.com/user-attachments/assets/b8e24567-7106-4bcf-a165-94b96b5a8d67)
+![Screenshot 2025-05-14 094654](https://github.com/user-attachments/assets/2edd9742-54bc-4c4e-afa2-432bf929c1b1)
+![Screenshot 2025-05-14 094812](https://github.com/user-attachments/assets/923ef67c-fd76-470d-b9cc-814a89174be9)
+![Screenshot 2025-05-14 094840](https://github.com/user-attachments/assets/fd97d6d7-0b5b-4cf4-a55d-9a7ef3b00473)
+![Screenshot 2025-05-14 094913](https://github.com/user-attachments/assets/79603100-bb3a-482e-a284-473eb732938e)
+
+
+
+
+
+
+
+
 
 ## 🤝 Contributing
 

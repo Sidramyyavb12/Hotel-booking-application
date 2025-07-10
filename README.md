@@ -50,3 +50,38 @@ A full-stack hotel booking web application built with the **MERN stack** (MongoD
 ```bash
 git clone https://github.com/Sidramyyavb12/Hotel-booking-application.git
 cd Hotel-booking-application
+🔹 Install Dependencies
+Backend:
+bash
+Copy
+Edit
+cd backend
+npm install
+Frontend:
+bash
+Copy
+Edit
+cd frontend
+npm install
+🔹 Set Up Environment Variables
+Create a .env file in the backend directory with:
+
+env
+Copy
+Edit
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+🔹 Start the App
+Backend:
+bash
+Copy
+Edit
+cd backend
+npm run dev
+Frontend:
+bash
+Copy
+Edit
+cd frontend
+npm start
